@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Call Log</string>
+    <string name="hint_phone_number">Введите номер телефона</string>
+    <string name="see_results">Посмотреть результаты</string>
+    <string name="error_enter_correct_phone_number">Введите корректный номер телефона</string>
+    <string name="rationale_give_all_permissions_to_use_app">Предоставьте разрешение, чтобы использовать приложение</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="in_summary">Суммарная длительность всех входящих звонков за последние три дня</string>
+    <string name="out_summary">Суммарная длительность всех исходящих звонков</string>
+    <string name="clear">Очистить</string>
+    <string name="exit">Выйти</string>
+</resources>
